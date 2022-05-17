@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+https://codeforces.com/problemset/problem/160/A
+ */
 public class Gemini {
 
     private static int getMinNumOfCoin() throws IOException {
